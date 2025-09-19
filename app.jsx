@@ -2,7 +2,7 @@ const App = () => {
   <>
     <div>asdfsdafssdfsdfsdadfsad</div>
     <p>asdfsadfsa</p>
-    <label>asdfgsadfsadf</label>
+    <a>sadfasdfsad</a>
   </>;
 };
 
